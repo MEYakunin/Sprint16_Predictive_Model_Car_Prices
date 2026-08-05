@@ -2,3 +2,4 @@
 .vscode
 datasets/
 test/
+catboost_info/
